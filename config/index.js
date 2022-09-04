@@ -31,7 +31,7 @@ export const config = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "ohxOO6VskY2v40Kuf5ywIZVRM3puXhk",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "WW-pTk2amnvEaMBGXWcLDCQmeplLUIOHh1EJ25iNn0E",
+      useTemplateId: "FCaIFauahNaqGGMzSepv07gIlYDjbujtvB42obofkbk",
       // 所在省份
       province: "广东",
       // 所在城市
@@ -42,18 +42,18 @@ export const config = {
     {
       name: "小代同学", 
       id: "o4KJI67-iyxREljau9Hj1Pg46vOo",
-      useTemplateId: "WW-pTk2amnvEaMBGXWcLDCQmeplLUIOHh1EJ25iNn0E",
+      useTemplateId: "FCaIFauahNaqGGMzSepv07gIlYDjbujtvB42obofkbk",
       province: "云南",
       city: "昆明",
-      openUrl: "https://wangxinleo.cn"
+      openUrl: "https://weibo.com/hot/weibo/102803"
     }, 
     {
       name: "小潘同学",
       id: "o4KJI65gzU_fqrxvMt0REB3Z1CjQ",
-      useTemplateId: "WW-pTk2amnvEaMBGXWcLDCQmeplLUIOHh1EJ25iNn0E",
+      useTemplateId: "FCaIFauahNaqGGMzSepv07gIlYDjbujtvB42obofkbk",
       province: "四川",
       city: "遂宁",
-      openUrl: "https://wangxinleo.cn"
+      openUrl: "https://weibo.com/hot/weibo/102803"
     }, 
     {
       name: "老婆3", 
@@ -102,10 +102,8 @@ export const config = {
    * 节日时，name填写相应展示的节日，你可以填“被搭讪纪念日”
    */
   FESTIVALS: [
-    {"type": "生日", "name": "小代同学", "year": "1998", "date": "09-02"},
-    {"type": "节日", "name": "认识", "year": "2004", "date": "09-01"},
+    {"type": "生日", "name": "小代同学", "year": "1998", "date": "10-02"},
     {"type": "生日", "name": "小潘同学", "year": "1998", "date": "12-15"},
-    {"type": "节日", "name": "久别重逢", "year": "2022", "date": "02-22"},
   ],
 
   /**
@@ -113,7 +111,7 @@ export const config = {
    * 如果为3, 则仅展示“将要到达” 的3个重要节日提醒，剩下的将被忽略
    * 如果为0, 则默认展示全部
    */
-  FESTIVALS_LIMIT: 4,
+  FESTIVALS_LIMIT: 2,
 
   /** 日期相关 */
 
@@ -124,9 +122,7 @@ export const config = {
   CUSTOMIZED_DATE_LIST: [
     // 在一起的日子
     {"keyword": "love_day", date: "2022-02-22"},
-    // 相识
-    {"keyword": "marry_day", date: "2004-09-01"},
-    // ... 
+
   ],
 
   /** 插槽 */
