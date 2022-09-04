@@ -48,11 +48,11 @@ export const config = {
       openUrl: "https://wangxinleo.cn"
     }, 
     {
-      name: "老婆2",
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
+      name: "小潘同学",
+      id: "o4KJI65gzU_fqrxvMt0REB3Z1CjQ",
+      useTemplateId: "WW-pTk2amnvEaMBGXWcLDCQmeplLUIOHh1EJ25iNn0E",
+      province: "四川",
+      city: "遂宁",
       openUrl: "https://wangxinleo.cn"
     }, 
     {
