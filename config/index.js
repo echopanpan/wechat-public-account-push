@@ -42,7 +42,7 @@ export const config = {
     {
       name: "小代同学", 
       id: "o4KJI67-iyxREljau9Hj1Pg46vOo",
-      useTemplateId: "FCaIFauahNaqGGMzSepv07gIlYDjbujtvB42obofkbk",
+      useTemplateId: "FIWC5ylwBzrVK3LqN-Vzn22dBm39c-H6xFe0uzMAGsI",
       province: "云南",
       city: "昆明",
       openUrl: "https://weibo.com/hot/weibo/102803"
@@ -50,7 +50,7 @@ export const config = {
     {
       name: "小潘同学",
       id: "o4KJI65gzU_fqrxvMt0REB3Z1CjQ",
-      useTemplateId: "FCaIFauahNaqGGMzSepv07gIlYDjbujtvB42obofkbk",
+      useTemplateId: "FIWC5ylwBzrVK3LqN-Vzn22dBm39c-H6xFe0uzMAGsI",
       province: "四川",
       city: "遂宁",
       openUrl: "https://weibo.com/hot/weibo/102803"
